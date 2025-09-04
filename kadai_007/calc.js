@@ -1,4 +1,4 @@
-let num = Math.floor(Math.random() * 100);
+let num = Math.floor(Math.random() * 100)+ 1;
 
 
 if (num % 3 === 0 && num % 5 === 0) {
